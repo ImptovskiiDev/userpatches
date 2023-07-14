@@ -1,1 +1,1 @@
-# userpatches
+# Поддержка RepkaPi для Armbian
